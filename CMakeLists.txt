@@ -37,7 +37,7 @@ project(
   myproject
   VERSION 0.0.1
   DESCRIPTION ""
-  HOMEPAGE_URL "https://github.com/%%myorg%%/%%myproject%%"
+  HOMEPAGE_URL "%%myurl%%"
   LANGUAGES CXX C)
 
 set(GIT_SHA
